@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-README.md
-=======
 # A Collection of Useful .gitignore Templates
 
 That's what we're trying to build. Please contribute
@@ -30,4 +27,3 @@ your projects. For example:
 This is useful if you use an editor (like Emacs) that drops backup files,
 or if you work in an environment that generates binary or intermediate
 files that are always ignored.
->>>>>>> github/master
